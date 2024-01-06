@@ -7,3 +7,5 @@ how to run
 - php artisan serve
 - import postman collection file
 - api document is in the postman
+- register/login for get token
+- how to authen user go to postman -> authorization -> type -> bearer token -> paste token from register or login 
